@@ -14,6 +14,8 @@
 
 End-to-end EDA → Preprocessing → Feature Engineering → Feature Importance → Modeling → Hyperparameter Tuning → Model Comparison, repeated across three independent classification problems.
 
+![Repository screenshot](assets/repo-screenshot.png)
+
 </div>
 
 ---
