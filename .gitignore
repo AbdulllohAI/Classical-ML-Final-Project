@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# CatBoost training logs (regenerated on each run)
+catboost_info/
+
+# Standalone HTML notebook exports (convenience only, not part of the deliverable)
+*_notebook.html
+
+# Virtual environments
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
