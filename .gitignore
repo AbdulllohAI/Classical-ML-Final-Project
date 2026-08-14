@@ -6,6 +6,9 @@ __pycache__/
 # CatBoost training logs (regenerated on each run)
 catboost_info/
 
+# Regenerated intermediate artifacts (recreated by 02_Preprocessing.ipynb)
+support-ticket-ml/data/processed/
+
 # Standalone HTML notebook exports (convenience only, not part of the deliverable)
 *_notebook.html
 
